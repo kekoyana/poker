@@ -1,4 +1,4 @@
-require './card.rb'
+require_relative "card"
 
 class Deck
   MAX_CARD = 5
